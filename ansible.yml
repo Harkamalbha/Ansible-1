@@ -11,4 +11,4 @@
     service:
        name: oneagent
        state: started
-       
+    become: yes  
